@@ -1,6 +1,8 @@
 # Create a notebook for your code
 
 NoteCode is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+![Screenshot (137)](https://github.com/VaibhavTalkhande/notecode/assets/49303222/0ea7d726-5e97-416a-9e76-548b4ba39e90)
+![Screenshot (138)](https://github.com/VaibhavTalkhande/notecode/assets/49303222/e7386a98-7fad-4da3-9429-94295cf9bc8f)
 
 ## What's next? How do I make an app with this?
 
